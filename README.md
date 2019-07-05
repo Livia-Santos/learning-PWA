@@ -26,3 +26,25 @@ __Progressive app example:__
 
 Lighthouse test:
 ![Lighthouse tests result](./images/lighthouse-performance.png)
+
+### Core Building Blocks
+
+__Service Workers:__
+
+Supported in modern browsers. Are basically Javascript running in a background process, even if your application is closed.
+
+Allow offline access to cache some files and serve them if we don't have internet connection.
+
+Enable other progressive web app related features (e.g background sync, push notification, etc).
+
+__Application Manifest:__
+
+Makes your application installable on home screens.
+
+__Responsive Design:__
+
+App / Layout should work and look good across Devices.
+
+Geolocation API - user location.
+
+Media API - Access device Camera and Microphone.
