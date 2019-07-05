@@ -19,3 +19,10 @@ Some examples of native mobile apps behaviors:
 - having an icon on the home screen;
 - access the device camera or the location;
 - synchronizing data on the background;
+
+__Progressive app example:__
+
+[Financial Times](https://app.ft.com/)
+
+Lighthouse test:
+![Lighthouse tests result](./images/lighthouse-performance.png)
