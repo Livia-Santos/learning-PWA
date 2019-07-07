@@ -29,3 +29,8 @@
   display: block;
   margin: 10px auto;
 }
+
+/* Card */
+.shared-moment-card {
+  margin: 0 auto;
+}
